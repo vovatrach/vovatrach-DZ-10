@@ -49,6 +49,7 @@ nav {
   font-size: 30px;
   color: #ffffff;
   text-decoration: none;
+  padding-left: 120px;
 }
 
 .menu {
@@ -118,6 +119,7 @@ nav {
   font-family:'Kaushan Script';
   font-weight: 400;
   font-size: 72px;
+  color: #ffffff;
 }
 
 .title__text {
@@ -125,6 +127,7 @@ nav {
   font-size: 150px;
   font-weight: bold;
   text-transform: uppercase;
+  color: #ffffff;
 }
 .title__btn {
   font-family:"Montserrat";
@@ -313,6 +316,7 @@ nav {
    text-transform: uppercase;
    text-decoration: none;
    color: #000000;
+   padding-bottom: 15px;
  }
  .card-footer__pe {
    font-family:"Roboto";
